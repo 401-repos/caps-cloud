@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Pull Request](http://xyz.com) (GitHub Actions)
+- [Pull Request][(http://xyz.com](https://github.com/401-repos/caps-cloud/pull/1))
 
 ### Setup
 
